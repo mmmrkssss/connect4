@@ -1,6 +1,7 @@
 # What is this project?
 
 Version 1.0:  just a simple connect4 programm playable in the console. Simply build and run the code and take turns playing.
+
 Version 1 contains:
 - basic programm
 - automatic checks for the win condition
