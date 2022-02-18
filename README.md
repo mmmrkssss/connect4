@@ -1,12 +1,11 @@
 # What is this project?
 
-version 1.0:  just a simple connect4 programm playable in the console.
-              Simply build and run the code and take turns playing.
-              Version 1 contains:
-              - basic programm
-              - automatic checks for the win condition
-              - scorekeeping over multiple rounds
-              - option to reset scores
+Version 1.0:  just a simple connect4 programm playable in the console. Simply build and run the code and take turns playing.
+Version 1 contains:
+- basic programm
+- automatic checks for the win condition
+- scorekeeping over multiple rounds
+- option to reset scores
 
 # How to play
 
