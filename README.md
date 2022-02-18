@@ -29,5 +29,6 @@ There are methodes
 - to place the piece in the correct spot of the columnn
 - to check for the win condition after each play
 - to reset the board if wanted
+- 
 while simple variables keep track of the score.
 
